@@ -15,5 +15,5 @@ langchain-text-splitters
 
 langsmith
 pymupdf
-
+sentence-transformers
 transformers
